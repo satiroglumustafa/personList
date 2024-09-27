@@ -1,0 +1,4 @@
+.card {height: 100%;}
+.card-title h3 {font-size: 15px;}
+.card.active {background: #78a678;}
+.card.active .card-title,.card.active .card-text {color: #fff;}
